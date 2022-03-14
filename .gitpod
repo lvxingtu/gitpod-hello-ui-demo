@@ -1,5 +1,3 @@
-checkoutLocation: src/github.com/32leaves/hello-ui
-workspaceLocation: /
 image:
   file: Dockerfile
 ports:
